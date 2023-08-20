@@ -4,6 +4,7 @@ import "../Styles/style.css"
 function Card({logo,content}) {
   return (
     <div className='List'>
+      // eslint-disable-next-line
       <img src={logo} alt="Image-Not_Found" className='content-image'/>
 
       <div className='right'>
