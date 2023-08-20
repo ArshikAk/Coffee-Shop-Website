@@ -1,0 +1,115 @@
+.Nav{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    justify-content: space-between;
+    padding-right: 10px;
+    border: 1px solid seashell;
+    background-color: white;
+    height: 60px;
+}
+
+.Name{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-left: 10px;
+    font-size: 15px;
+}
+
+.IMA{
+    padding-top: 5px;
+    font-weight: bolder;
+}
+
+.Coffee{
+    color: saddlebrown;
+    font-size: 15px;
+    padding-top: 5px;
+}
+.NavBar{
+    display: flex;
+    flex-direction: row;
+    float: right;
+    gap: 10px;
+}
+
+.Order{
+    border: 1px solid saddlebrown;
+    background-color: saddlebrown;
+    color: white;
+    height: 40px;
+}
+
+.Sign{
+    border: 1px solid saddlebrown;
+    color: saddlebrown;
+    height: 40px;
+}
+
+button{
+    margin-top: 10px;
+}
+
+.Content{
+    background-color: antiquewhite;
+    padding-top: 20px;
+}
+
+img{
+    height: 400px;
+    width: 80%;
+}
+
+.Sen{
+    padding-top: 20px;
+}
+
+.List{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid grey;
+    height: 180px;
+    padding-top: 10px;
+    margin: 10px 100px;
+}
+
+.right{
+   margin-left: 20px;
+   text-align: left;
+}
+
+.Time{
+    color: grey;
+    justify-content: left;
+   
+}
+
+.content-image{
+    height: 150px;
+    width: 150px;
+}
+
+body{
+    margin: 40px;
+    background-color: rgb(238, 235, 232);
+}
+
+.Bottom{
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+}
+
+.Address{
+    border-bottom: 2px solid seashell;
+}
+
+.logo-section{
+    margin-top: 20px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    color: sandybrown;
+}
