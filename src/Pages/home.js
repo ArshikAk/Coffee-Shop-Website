@@ -65,7 +65,6 @@ function  Home() {
               return(
                 <div key={index}>
                   <Card logo={data} content={Content[index]}></Card>
-
                   <br />
                   <br />
                 </div>
